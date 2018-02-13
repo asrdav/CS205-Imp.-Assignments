@@ -1,6 +1,3 @@
-//Name-Abhinav Siddharth
-//Roll no.-1601CS01
-//Date-4.8.2017
 //To create a linked list where each node contain a part of student's name which distinguishes students,and then sort the linked list and then print full names.
 #include<stdio.h>
 #include<string.h>
